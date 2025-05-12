@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PnBZD3oocJE=",
+  "success": true,
+  "projectFilePath": "C:\\DEV\\Netflix\\Netflix\\Netflix.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tranq\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "C:\\Users\\tranq\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
